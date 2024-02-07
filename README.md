@@ -2,7 +2,7 @@
 
 Control board for the line follower racing car project designed at [A Industriosa](https://aindustriosa.org/).
 
-<img src="img/pinout.png" width="350px">
+<img src="img/pinout.png" width="800px">
 
 ## Releases
 
